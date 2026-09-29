@@ -1,5 +1,23 @@
-`repair-landing` — учебный mobile-first лендинг для услуги ремонта квартир под ключ в Москве.
-Сделал страницу как портфолио-демо: без фейковых отзывов, имён и «реальных» кейсов. Реализовал адаптив, бургер-меню, раскрывающиеся блоки и форму с frontend-валидацией. Проверил форму, мобильную версию и опубликовал проект через GitHub Pages.
-Проект помог пройти полный цикл: задача, структура, вёрстка, проверка, публикация.
-Сайт: [https://nefrit333-cpu.github.io/repair-landing/](https://nefrit333-cpu.github.io/repair-landing/)\
-Код: [https://github.com/nefrit333-cpu/repair-landing](https://github.com/nefrit333-cpu/repair-landing)
+## Привет
+
+Я учусь делать сайты с помощью AI/Codex и собираю небольшое портфолио учебных проектов.
+Фокусируюсь не только на генерации кода, а на постановке задачи, проверке результата,
+адаптации интерфейса, frontend-логике и публикации проектов.
+
+## Учебные проекты
+
+### repair-landing
+
+Учебный mobile-first лендинг для услуги ремонта квартир под ключ в Москве.
+Отработал коммерческую структуру страницы, адаптив, форму заявки и публикацию через GitHub Pages.
+
+- Сайт: [nefrit333-cpu.github.io/repair-landing](https://nefrit333-cpu.github.io/repair-landing/)
+- Код: [github.com/nefrit333-cpu/repair-landing](https://github.com/nefrit333-cpu/repair-landing)
+
+### cleaning-calculator
+
+Учебный mobile-first лендинг клининга квартир в Москве с калькулятором стоимости и времени уборки.
+Отработал JavaScript-логику: расчёт цены, состояния формы, граничные значения и frontend-валидацию.
+
+- Сайт: [nefrit333-cpu.github.io/cleaning-calculator](https://nefrit333-cpu.github.io/cleaning-calculator/)
+- Код: [github.com/nefrit333-cpu/cleaning-calculator](https://github.com/nefrit333-cpu/cleaning-calculator)
