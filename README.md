@@ -9,7 +9,9 @@
 ### repair-landing
 
 Учебный mobile-first лендинг для услуги ремонта квартир под ключ в Москве.
-Отработал коммерческую структуру страницы, адаптив, форму заявки и публикацию через GitHub Pages.
+Довёл проект до portfolio demo: отработал коммерческую структуру, визуальную полировку,
+адаптив, форму заявки, бургер-меню, раскрывающиеся блоки и публикацию через GitHub Pages.
+Контент оформлен честно: без фейковых отзывов, реальных клиентов и вымышленных кейсов.
 
 - Сайт: [nefrit333-cpu.github.io/repair-landing](https://nefrit333-cpu.github.io/repair-landing/)
 - Код: [github.com/nefrit333-cpu/repair-landing](https://github.com/nefrit333-cpu/repair-landing)
