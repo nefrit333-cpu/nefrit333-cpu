@@ -3,6 +3,7 @@
 Я учусь делать сайты с помощью AI/Codex и собираю небольшое портфолио учебных проектов.
 Фокусируюсь не только на генерации кода, а на постановке задачи, проверке результата,
 адаптации интерфейса, frontend-логике и публикации проектов.
+Проекты ниже идут по росту сложности: от лендинга к интерфейсам с логикой, роутингом и состоянием.
 
 ## Учебные проекты
 
@@ -20,6 +21,16 @@
 
 Учебный mobile-first лендинг клининга квартир в Москве с калькулятором стоимости и времени уборки.
 Отработал JavaScript-логику: расчёт цены, состояния формы, граничные значения и frontend-валидацию.
+Проект опубликован через GitHub Pages.
 
 - Сайт: [nefrit333-cpu.github.io/cleaning-calculator](https://nefrit333-cpu.github.io/cleaning-calculator/)
 - Код: [github.com/nefrit333-cpu/cleaning-calculator](https://github.com/nefrit333-cpu/cleaning-calculator)
+
+### auto-service-catalog
+
+Учебный React/TypeScript mini-site для городского автосервиса в Москве.
+Отработал роутинг, каталог услуг, фильтры по категориям, страницы услуг и многошаговую demo-запись с focus trap в модалке.
+Это следующий уровень после лендингов: компоненты, типизированные данные, состояние интерфейса и публикация через GitHub Actions.
+
+- Сайт: [nefrit333-cpu.github.io/auto-service-catalog](https://nefrit333-cpu.github.io/auto-service-catalog/)
+- Код: [github.com/nefrit333-cpu/auto-service-catalog](https://github.com/nefrit333-cpu/auto-service-catalog)
