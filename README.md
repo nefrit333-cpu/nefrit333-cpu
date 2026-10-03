@@ -28,9 +28,9 @@
 
 ### auto-service-catalog
 
-Учебный React/TypeScript mini-site для городского автосервиса в Москве.
-Отработал роутинг, каталог услуг, фильтры по категориям, страницы услуг и многошаговую demo-запись с focus trap в модалке.
-Это следующий уровень после лендингов: компоненты, типизированные данные, состояние интерфейса и публикация через GitHub Actions.
+Учебный React/TypeScript/Vite mini-site для demo-каталога городского автосервиса в Москве.
+Отработал роутинг, каталог услуг, фильтры по категориям, страницы отдельных услуг и многошаговую demo-запись: предвыбор услуги, frontend-валидацию, focus trap, закрытие по Escape и возврат фокуса.
+Проект показывает следующий уровень после лендингов: компоненты, типизированные данные, состояние интерфейса, mobile-first адаптив, финальную UI-доводку, favicon и публикацию через GitHub Actions на GitHub Pages. Это portfolio demo, заявки никуда не отправляются.
 
 - Сайт: [nefrit333-cpu.github.io/auto-service-catalog](https://nefrit333-cpu.github.io/auto-service-catalog/)
 - Код: [github.com/nefrit333-cpu/auto-service-catalog](https://github.com/nefrit333-cpu/auto-service-catalog)
