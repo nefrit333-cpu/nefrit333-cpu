@@ -28,9 +28,10 @@
 
 ### auto-service-catalog
 
-Учебный React/TypeScript/Vite mini-site для demo-каталога городского автосервиса в Москве.
-Отработал роутинг, каталог услуг, фильтры по категориям, страницы отдельных услуг и многошаговую demo-запись: предвыбор услуги, frontend-валидацию, focus trap, закрытие по Escape и возврат фокуса.
-Проект показывает следующий уровень после лендингов: компоненты, типизированные данные, состояние интерфейса, mobile-first адаптив, финальную UI-доводку, favicon и публикацию через GitHub Actions на GitHub Pages. Это portfolio demo, заявки никуда не отправляются.
+Учебный portfolio demo каталога услуг автосервиса на Astro + TypeScript.
+Это следующий шаг после лендинга и калькулятора: статический сайт с file-based routes, каталогом услуг, фильтрами, страницами отдельных услуг и mobile-first интерфейсом.
+После миграции с React/Vite проект стал статичнее и легче по клиентскому JavaScript, сохранив доступную многошаговую demo-форму записи: предвыбор услуги, frontend-валидацию, focus trap, закрытие по Escape и возврат фокуса.
+Дополнительно отработал визуальную доводку, hash-redirect для старых ссылок и деплой через GitHub Actions на GitHub Pages. Это portfolio demo: без backend, CRM и реальной отправки заявок.
 
 - Сайт: [nefrit333-cpu.github.io/auto-service-catalog](https://nefrit333-cpu.github.io/auto-service-catalog/)
 - Код: [github.com/nefrit333-cpu/auto-service-catalog](https://github.com/nefrit333-cpu/auto-service-catalog)
