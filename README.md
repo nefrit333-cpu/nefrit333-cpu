@@ -44,4 +44,5 @@
 Проект остаётся demo: без production deploy, реальной CRM-интеграции, настоящей отправки писем и рабочих уведомлений.
 Перед публикацией закрыты Composer audit и npm audit.
 
-- Код: [github.com/nefrit333-cpu/remont-crm](https://github.com/nefrit333-cpu/remont-crm)
+- **[Открыть демо Remont CRM](https://remont-crm.onrender.com/)** · Режим только для просмотра. На главной можно выбрать одну из четырёх ролей: администратор, менеджер, прораб или клиент. После простоя загрузка может занять около минуты.
+- [Посмотреть исходники на GitHub](https://github.com/nefrit333-cpu/remont-crm)
